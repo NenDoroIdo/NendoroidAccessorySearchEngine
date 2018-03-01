@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NendoroidAccessorySearchEngine", "NendoroidAccessorySearchEngine\NendoroidAccessorySearchEngine.csproj", "{C726F838-F358-4C23-A7CB-41C1C709CDB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NendoroidAccessorySearchEngine", "NendoroidAccessorySearchEngine\NendoroidAccessorySearchEngine.csproj", "{C726F838-F358-4C23-A7CB-41C1C709CDB6}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{CE71E5CC-B014-4B05-9B70-AE37442422B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NendoroidAccessorySearchEngine.Core", "NendoroidAccessorySearchEngine.Core\NendoroidAccessorySearchEngine.Core.csproj", "{3D99E2CC-40ED-43B8-ACC3-8ACCA343FED8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{CE71E5CC-B014-4B05-9B70-AE37442422B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE71E5CC-B014-4B05-9B70-AE37442422B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE71E5CC-B014-4B05-9B70-AE37442422B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D99E2CC-40ED-43B8-ACC3-8ACCA343FED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D99E2CC-40ED-43B8-ACC3-8ACCA343FED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D99E2CC-40ED-43B8-ACC3-8ACCA343FED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D99E2CC-40ED-43B8-ACC3-8ACCA343FED8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
