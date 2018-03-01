@@ -1,0 +1,3 @@
+[submodule "NendoroidAccessorySearchEngine.Core"]
+	path = NendoroidAccessorySearchEngine.Core
+	url = https://github.com/NenDoroIdo/NendoroidAccessorySearchEngine.Core.git
