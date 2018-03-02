@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nendoroido.web", "Nendoroid
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{CE71E5CC-B014-4B05-9B70-AE37442422B1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NendoroidAccessorySearchEngine.Core", "Nendoroido.Core\NendoroidAccessorySearchEngine.Core.csproj", "{3D99E2CC-40ED-43B8-ACC3-8ACCA343FED8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nendoroido.Core", "Nendoroido.Core\Nendoroido.Core.csproj", "{3D99E2CC-40ED-43B8-ACC3-8ACCA343FED8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
