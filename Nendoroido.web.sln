@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2009
+VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NendoroidAccessorySearchEngine", "Nendoroido.web\NendoroidAccessorySearchEngine.csproj", "{C726F838-F358-4C23-A7CB-41C1C709CDB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nendoroido.web", "Nendoroido.web\Nendoroido.web.csproj", "{C726F838-F358-4C23-A7CB-41C1C709CDB6}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{CE71E5CC-B014-4B05-9B70-AE37442422B1}"
 EndProject
