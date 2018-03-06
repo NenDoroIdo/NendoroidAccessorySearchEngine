@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NendoroidAccessorySearchEngine.Core\NendoroidAccessorySearchEngine.Core.csproj" />
+    <ProjectReference Include="..\Nendoroido.Core\Nendoroido.Core.csproj" />
   </ItemGroup>
 
 </Project>
